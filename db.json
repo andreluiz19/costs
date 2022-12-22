@@ -7,8 +7,15 @@
         "id": "2",
         "name": "Desenvolvimento"
       },
-      "cost": 0,
-      "services": [],
+      "cost": 100,
+      "services": [
+        {
+          "name": "Teste",
+          "cost": "100",
+          "description": "Sim",
+          "id": "ebb8a661-b972-4683-b03d-8f306f0cd2b3"
+        }
+      ],
       "id": 2
     },
     {
@@ -18,8 +25,21 @@
         "id": "4",
         "name": "Planejamento"
       },
-      "cost": 0,
-      "services": [],
+      "cost": 2800,
+      "services": [
+        {
+          "name": "Service",
+          "cost": "2500",
+          "description": "Descrição do servico.",
+          "id": "434d5b6e-31b1-4262-b02e-ea6b7795dca7"
+        },
+        {
+          "name": "Servidor",
+          "cost": "300",
+          "description": "AWS",
+          "id": "5506f222-f686-4ed5-bcf2-a8deaeacd05f"
+        }
+      ],
       "id": 3
     },
     {
