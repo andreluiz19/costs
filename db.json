@@ -1,17 +1,6 @@
 {
   "projects": [
     {
-      "name": "Teste",
-      "budget": "1000",
-      "category": {
-        "id": "1",
-        "name": "Infraestrutura"
-      },
-      "cost": 0,
-      "services": [],
-      "id": 1
-    },
-    {
       "name": "Meu Projeto",
       "budget": "5000",
       "category": {
@@ -34,8 +23,8 @@
       "id": 3
     },
     {
-      "name": "Meu Projeto 2",
-      "budget": "3000",
+      "name": "Projetinho",
+      "budget": "4000",
       "category": {
         "id": "1",
         "name": "Infraestrutura"
@@ -43,6 +32,17 @@
       "cost": 0,
       "services": [],
       "id": 4
+    },
+    {
+      "name": "MyHealth",
+      "budget": "800",
+      "category": {
+        "id": "3",
+        "name": "Design"
+      },
+      "cost": 0,
+      "services": [],
+      "id": 6
     }
   ],
   "categories": [
