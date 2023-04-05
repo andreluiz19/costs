@@ -63,6 +63,24 @@
       "cost": 0,
       "services": [],
       "id": 6
+    },
+    {
+      "name": "Aula Programação Web FullStack",
+      "budget": "2500",
+      "category": {
+        "id": "2",
+        "name": "Desenvolvimento"
+      },
+      "cost": 1500,
+      "services": [
+        {
+          "name": "Projeto 1",
+          "cost": "1500",
+          "description": "Primeira parte do projeto (FrontEnd)",
+          "id": "54a36000-e520-4970-9fe0-84dc1996380b"
+        }
+      ],
+      "id": 7
     }
   ],
   "categories": [
